@@ -1,3 +1,8 @@
+# Common to all projects
+######################
+GoogleService-Info.plist
+Config.swift
+
 
 # OS generated files 
 ######################
@@ -135,6 +140,4 @@ DerivedData/
 ####################
 *.log
 *.sqlite
-
-Config.swift
 
